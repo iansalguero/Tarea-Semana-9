@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEMANA_9", "SEMANA_9.csproj", "{5950334B-EF44-4654-8051-5E8BAF281433}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{1F2A49A4-B97C-4A3A-A6B5-358E4F57ECFC}"
+	ProjectSection(SolutionItems) = preProject
+		Circulo.cs = Circulo.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5950334B-EF44-4654-8051-5E8BAF281433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5950334B-EF44-4654-8051-5E8BAF281433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5950334B-EF44-4654-8051-5E8BAF281433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5950334B-EF44-4654-8051-5E8BAF281433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {330B5158-248C-4DDE-813A-F1BE7AFA92AE}
+	EndGlobalSection
+EndGlobal
